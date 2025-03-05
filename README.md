@@ -1,2 +1,2 @@
 # Amazon-
-amazon clone first page during order
+First page of amazon
